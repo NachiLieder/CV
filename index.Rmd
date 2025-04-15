@@ -1,167 +1,42 @@
 ---
-title: "Nachi Lieder's CV"
-author: Nachi Lieder
-date: "`r Sys.Date()`"
+title: "Nachi Lieder"
 output:
-  pagedown::html_resume:
-    # set it to true for a self-contained HTML page but it'll take longer to render
-    self_contained: false
-    css: my_css.css
-    paged-footnotes: true
-editor_options: 
-  markdown: 
-    wrap: 72
+  html_document:
+    theme: null
+    css: style.css
+    toc: false
+    highlight: tango
 ---
 
-# Aside
+<div class="header">
+  <h1>Nachi Lieder</h1>
+  <p class="subtitle">Data Scientist • Researcher • Sports Guru</p>
+</div>
 
-<center><img src="headshots/headshot.jpeg" style="width:100%; border-radius: 50%;"/></center>
-
-## Contact Info {#contact}
-
-<i class="fa fa-envelope"></i>
-[nachilieder\@gmail.com](mailto:nachilieder@gmail.com){.email}\
-[LinkedIn](https://www.linkedin.com/in/nachi-lieder-87a1b342/)\
-<i class="fa fa-brands fa-github"></i>
-[GitHub](https://github.com/NachiLieder)\
+<div class="section">
+  <h2>📄 Resume</h2>
+  <a class="cv-link" href="cv.html" target="_blank">View My CV</a>
+</div>
 
 
-## Languages {#languages}
+<div class="section">
+  <h2>📚 Published Papers</h2>
+  <div class="link-grid">
+  <a class="cv-link" href="Basketball_Squad_Productivity.pdf" target="_blank">From Marketing to the Court: Applying MMM and Fatigue Analysis for Optimal Basketball Lineups</a>
+  
+  <a class="cv-link" href="Enhancing_Forecasting_with_a_2D_Time_Series_Approach_for_Cohort_Based_Data.pdf" target="_blank">Enhancing Forecasting with a 2D Time Series Approach for Cohort-Based Data</a>
 
-English - Native language\
-Hebrew - Native language
-
-## Technical Skills
-
-**Machine Learning** - Predictive modeling, anomaly detection, customer segmentation, time-series forecasting, statistical analysis.\
-**Deep Learning** - LSTM models, LLMs, text personalization, classification models (TensorFlow). \
-**Software Engineering** - Python, R, Dockers for ML, Linux, SQL & NoSQL.\
-**Cloud Platforms** - AWS Services, AWS SageMaker, Google Cloud, Prefect\
-**Financial Analysis** - Market analysis,   Revenue forecasting.\
-\
+  </div>
+</div>
 
 
-
-## Disclaimer {#disclaimer}
-
-<!--See [short resume](https://mattansb.github.io/CV/resume).-->
-
-Last updated on `r Sys.Date()`.
-
-# Main
-
-## Nachi Lieder, Data Scientist {#title}
-
-Experienced and statistically oriented Data Scientist with a strong foundation in machine learning, time series modeling , and predictive analytics. Currently serving as the [Financial Lead](#stats-analyst) for the Data Science team , driving insights and strategic initiatives across finance, marketing, and sales functions. A collaborative team player with a proven track record of partnering cross-functionally to deliver business impact through data. Experienced in projects ranging from  [predictive maintenance](#GE) to [performance optimization](#sports) in sports. Adept at translating complex data into actionable solutions, with a focus on measurable outcomes and scalable models. 
-
-## Professional Experience {data-icon="laptop"}
-
-### Lightricks - Data Scientist Lead {#stats-analyst}
-
-N/A
-
-N/A
-
-Since 2022
-
-I am deeply rooted in theoretical and applied statistics, and am
-committed to the principles of data analysis, inferential statistics,
-and reproducible research, while also mindful of the practical needs of
-researchers and academics. I provide guidance throughout all stages of
-the research process and decision-guided statistical analyses. I
-specialize in the following methods:
-
-
--   Led the finance domain, actively developing and deploying ML models, including revenue forecasting, driving data-driven financial decisions.
-\
--   Developed and integrated a real-time conversion prediction model, achieving a 30% uplift in CVR.\
--   Built transaction prediction models using Survival Analysis (e.g., Random Survival Forests) for enhanced customer behavior prediction.\
--   Designed and deployed a time-series forecasting model, predicting 12 months ahead with a monthly error of just 1%, significantly improving forecasting accuracy.\
--   Drove marketing budget optimization through MMM modeling, improving spend efficiency.\
-
-### GE Healthcare - Data Scientist {#GE}
-
-N/A
-
-N/A
-
-2019 - 2022
-
--   Developed a predictive maintenance system combining LSTM-based anomaly detection with a log-based NLP model, reducing equipment downtime by 24–72 hours and improving failure detection for Nuclear Medicine equipment.
-\
--   Led component lifetime prediction & cost optimization, automating benefit analysis pipelines to save hours of future work in cost and KPI-driven decisions.
-\
--   Designed end-to-end ML pipelines integrating Industry 4.0 principles, optimizing sensor data collection, processing, and deployment for smarter diagnostics.\
-
-### Panda TS - Data Scientist {#panda}
-
-N/A
-
-N/A
-
-2018 - 2019
-
--   Built an ML-driven lead scoring system, increasing sales conversion rates by 50%.
-\
--   Built customer segmentation models, cutting research time for sales and retention teams.
-\
-
-### MKT Mediastats - Data Scientist {#MKT}
-
-N/A
-
-N/A
-
-2015 - 2018
-
--   Developed media-driven trading models, boosting 30%+ annual revenue for 1 T$ portfolios.
-\
--   Built market indicators from media based data, enhancing institutional trading decisions.
-\
--   Applied statistical analysis to uncover profitable, risk-optimized investment strategies.
-\
-
-## Education {#education data-icon="graduation-cap" data-concise="true"}
-
-### M.Sc in Statistics
-
-University of Haifa
-
-Haifa, Israel
-
-2020 - 2022
-
-
-### B.Sc in Industrial Engineering & Information Systems
-
-Technion Institue
-
-Haifa, Israel
-
-2011 - 2015
-
-Publications & Initiatives {data-icon=file #pubs}
---------------------------------------------------------------------------------
-
-### Peer Reviewed Publications
-
-N/A
-
-N/A
-
-N/A
-
-- Guttel, Lieder, Moradov, Messica (2025). Enhancing Forecasting with a 2D Time Series Approach for Cohort-Based Data
-
-
-### Projects & Initiatives
-
-#### COVID-19 symptom classification - Shaarei Tsedek Hospital (2019-2020)
-
-- Collaborated with ER - developed symptom classification tool, improving patient triage efficiency.
-
-#### Sports Analytics Projects (2021- Present) {#sports}
-
-- Created kernel-based regression model analyzing fatigue impact on team performance (Collaborated with the Israeli National Basketball Team).
-
- 
+<div class="section">
+  <h2>Blog Posts</h2>
+  <a class="cv-link" href="https://medium.com/lightricks-tech-blog/unleashing-the-power-predictive-modeling-overcoming-challenges-in-forecasting-annual-revenue-7928ebbbedce" target="_blank">Unleashing the Power of Predictive Modeling: Overcoming Challenges in Forecasting Annual Revenue</a>
+  
+  <a class="cv-link" href="https://medium.com/@nachilieder/fifa-world-cup-game-prediction-team-similarity-method-feb4828feaec" target="_blank">FIFA World Cup Game Prediction — Team Similarity Method</a>
+  
+  <a class="cv-link" href="https://medium.com/lightricks-tech-blog/evaluation-monitoring-why-38a132481eb5" target="_blank">ML Models: Evaluation & Monitoring, Why?</a>
+  
+  <a class="cv-link" href="https://medium.com/sports-analytics-and-data-science/fantasy-premier-league-lineup-optimization-using-mixed-linear-programming-the-knapsack-problem-3c19b3b007a2" target="_blank">Fantasy Premier League — Lineup Optimization Using Mixed Linear Programming (A.K.A “The Knapsack Problem”)</a>
+</div>
