@@ -8,10 +8,24 @@ output:
     highlight: tango
 ---
 
+<center>
+  <img src="headshots/headshot.jpeg" style="width:180px; border-radius: 50%;" />
+</center>
+
+
 <div class="header">
   <h1>Nachi Lieder</h1>
   <p class="subtitle">Data Scientist • Researcher • Sports Guru</p>
 </div>
+
+I’m a senior data scientist with a proven track record of leading high-impact projects that sit at the intersection of analytics, strategy, and execution. I specialize in building scalable, data-driven solutions that power decision-making across marketing, finance, and product — from predictive modeling and causal inference to optimization, experimentation, and monitoring frameworks.
+
+I thrive in environments that demand both technical depth and cross-functional leadership. Whether I’m aligning stakeholders on analytical direction, mentoring junior talent, or driving initiatives from concept to deployment, I bring a bias toward clarity, collaboration, and measurable outcomes.
+
+While I’ve developed and published advanced models across domains, I have a particular passion for sports analytics — not just building models that simulate games or optimize lineups, but also staying active on the field and court myself. For me, data is not just a tool for analysis — it’s a way to unlock performance, tell better stories, and push boundaries.
+
+I bring curiosity, discipline, and a relentless focus on delivering results — always bridging the gap between complexity and action.
+
 
 <div class="section">
   <h2>📄 Resume</h2>
@@ -22,9 +36,9 @@ output:
 <div class="section">
   <h2>📚 Published Papers</h2>
   <div class="link-grid">
-  <a class="cv-link" href="Basketball_Squad_Productivity.pdf" target="_blank">From Marketing to the Court: Applying MMM and Fatigue Analysis for Optimal Basketball Lineups</a>
+  <a class="cv-link" href="Basketball_Squad_Productivity.pdf" target="_blank">From Marketing to the Court: Applying MMM and Fatigue Analysis for Optimal Basketball Lineups (2025)</a>
   
-  <a class="cv-link" href="Enhancing_Forecasting_with_a_2D_Time_Series_Approach_for_Cohort_Based_Data.pdf" target="_blank">Enhancing Forecasting with a 2D Time Series Approach for Cohort-Based Data</a>
+  <a class="cv-link" href="Enhancing_Forecasting_with_a_2D_Time_Series_Approach_for_Cohort_Based_Data.pdf" target="_blank">Enhancing Forecasting with a 2D Time Series Approach for Cohort-Based Data (2025)</a>
 
   </div>
 </div>
