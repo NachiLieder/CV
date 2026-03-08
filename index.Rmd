@@ -15,16 +15,14 @@ output:
 
 <div class="header">
   <h1>Nachi Lieder</h1>
-  <p class="subtitle">Data Scientist • Researcher • Sports Guru</p>
+  <p class="subtitle">Data Science & AI Systems Lead • Revenue Intelligence • LLM Pipelines & Decision Systems</p>
 </div>
 
-I’m a senior data scientist with a proven track record of leading high-impact projects that sit at the intersection of analytics, strategy, and execution. I specialize in building scalable, data-driven solutions that power decision-making across marketing, finance, and product — from predictive modeling and causal inference to optimization, experimentation, and monitoring frameworks.
+I’m a Data Science & AI Systems Lead with 11+ years of experience building production-grade machine learning and LLM-powered systems that drive executive decision-making. I lead design of revenue forecasting, cohort-based LTV modeling, marketing optimization, and KPI intelligence frameworks that influence C-level strategy — with deep expertise in time-series forecasting, long-horizon LTV prediction, survival analysis, causal inference, vector embeddings, and LLM pipelines.
 
-I thrive in environments that demand both technical depth and cross-functional leadership. Whether I’m aligning stakeholders on analytical direction, mentoring junior talent, or driving initiatives from concept to deployment, I bring a bias toward clarity, collaboration, and measurable outcomes.
+I thrive at the intersection of technical depth and cross-functional leadership: partnering with C-level on revenue and planning, defining modeling standards and mentoring data scientists, and taking systems from concept to production. I'm committed to clarity, measurable outcomes, and bridging complexity with action.
 
-While I’ve developed and published advanced models across domains, I have a particular passion for sports analytics — not just building models that simulate games or optimize lineups, but also staying active on the field and court myself. For me, data is not just a tool for analysis — it’s a way to unlock performance, tell better stories, and push boundaries.
-
-I bring curiosity, discipline, and a relentless focus on delivering results — always bridging the gap between complexity and action.
+Beyond core ML and AI systems, I've developed and published work in sports analytics (MMM and fatigue analysis for basketball lineups) and built quantitative side projects in bias detection and arbitrage portfolio management. I bring curiosity, discipline, and a focus on delivering results.
 
 
 <div class="section">
