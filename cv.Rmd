@@ -21,6 +21,7 @@ editor_options:
 
 <i class="fa fa-envelope"></i>
 [nachilieder\@gmail.com](mailto:nachilieder@gmail.com){.email}\
+Israel | US Citizen | Willing to Relocate\
 [LinkedIn](https://www.linkedin.com/in/nachi-lieder-87a1b342/)\
 <i class="fa fa-brands fa-github"></i>
 [GitHub](https://github.com/NachiLieder)\
@@ -33,11 +34,10 @@ Hebrew - Native language
 
 ## Technical Skills
 
-**Machine Learning** - Predictive modeling, anomaly detection, customer segmentation, time-series forecasting, statistical analysis.\
-**Deep Learning** - LSTM models, LLMs, text personalization, classification models (TensorFlow). \
-**Software Engineering** - Python, R, Dockers for ML, Linux, SQL & NoSQL.\
-**Cloud Platforms** - AWS Services, AWS SageMaker, Google Cloud, Prefect\
-**Financial Analysis** - Market analysis,   Revenue forecasting.\
+**Machine Learning & Statistics** — Time-Series Forecasting | 25-Month LTV Prediction | Survival Analysis | Causal Inference | MMM | Experimentation Design\
+**LLM & AI Systems** — LLM Pipelines | Prompt Engineering & Prompt Analysis | Vector Embeddings | Keyword Optimization | Multi-Step Workflows\
+**Engineering** — Python | SQL | AWS | Docker | Prefect | Production ML Systems\
+**Leadership** — KPI Framework Design | Executive Reporting | Stakeholder Alignment | Mentorship\
 \
 
 
@@ -50,36 +50,32 @@ Last updated on `r Sys.Date()`.
 
 # Main
 
-## Nachi Lieder, Data Scientist {#title}
+## Nachi Lieder, Data Science & AI Systems Lead {#title}
 
-Experienced and statistically oriented Data Scientist with a strong foundation in machine learning, time series modeling , and predictive analytics. Currently serving as the [Financial Lead](#stats-analyst) for the Data Science team , driving insights and strategic initiatives across finance, marketing, and sales functions. A collaborative team player with a proven track record of partnering cross-functionally to deliver business impact through data. Experienced in projects ranging from  [predictive maintenance](#GE) to [performance optimization](#sports) in sports. Adept at translating complex data into actionable solutions, with a focus on measurable outcomes and scalable models. 
+Data Science & AI Systems Lead with 11+ years of experience building production-grade machine learning and LLM-powered systems driving executive decision-making. Lead architect of revenue forecasting, cohort-based LTV modeling, marketing optimization, and KPI intelligence frameworks influencing C-level strategy. Expertise in time-series forecasting, long-horizon LTV prediction, survival analysis, causal inference, vector embeddings, and LLM pipelines. See [Lightricks](#stats-analyst), [GE Healthcare](#GE), and [personal projects](#projects). 
 
 ## Professional Experience {data-icon="laptop"}
 
-### Lightricks - Data Scientist Lead {#stats-analyst}
+### Lightricks — Data Science & AI Systems Lead {#stats-analyst}
 
 N/A
 
 N/A
 
-Since 2022
+2022–Present
 
-I am deeply rooted in theoretical and applied statistics, and am
-committed to the principles of data analysis, inferential statistics,
-and reproducible research, while also mindful of the practical needs of
-researchers and academics. I provide guidance throughout all stages of
-the research process and decision-guided statistical analyses. I
-specialize in the following methods:
+-   Own finance data science domain; partner directly with C-level leadership on revenue strategy and financial planning.\
+-   Designed multi-layer revenue KPI framework (North Star → growth drivers → forecasting → monitoring) adopted in executive decision-making.\
+-   Built 12-month revenue forecasting systems (~1% monthly error) supporting quarterly and annual planning.\
+-   Led cohort-level LTV prediction modeling 25 months ahead, incorporating growth factors and retention dynamics.\
+-   Developed MMM-driven marketing budget optimization models influencing allocation decisions.\
+-   Delivered 30% CVR uplift through real-time predictive conversion systems.\
+-   Designed production LLM pipelines and vector-embedding-based keyword optimization systems.\
+-   Built prompt analysis models distinguishing professional vs regular users and modeling intent.\
+-   Created multi-step Cursor AI skills and rule-based workflows for development automation and EDA.\
+-   Mentored junior data scientists; led technical reviews and defined modeling standards.\
 
-
--   Led the finance domain, actively developing and deploying ML models, including revenue forecasting, driving data-driven financial decisions.
-\
--   Developed and integrated a real-time conversion prediction model, achieving a 30% uplift in CVR.\
--   Built transaction prediction models using Survival Analysis (e.g., Random Survival Forests) for enhanced customer behavior prediction.\
--   Designed and deployed a time-series forecasting model, predicting 12 months ahead with a monthly error of just 1%, significantly improving forecasting accuracy.\
--   Drove marketing budget optimization through MMM modeling, improving spend efficiency.\
-
-### GE Healthcare - Data Scientist {#GE}
+### GE Healthcare — Data Scientist {#GE}
 
 N/A
 
@@ -93,7 +89,7 @@ N/A
 \
 -   Designed end-to-end ML pipelines integrating Industry 4.0 principles, optimizing sensor data collection, processing, and deployment for smarter diagnostics.\
 
-### Panda TS - Data Scientist {#panda}
+### Panda TS — Data Scientist {#panda}
 
 N/A
 
@@ -106,42 +102,38 @@ N/A
 -   Built customer segmentation models, cutting research time for sales and retention teams.
 \
 
-### MKT Mediastats - Data Scientist {#MKT}
+### MKT Mediastats — Data Scientist {#MKT}
 
 N/A
 
 N/A
 
-2015 - 2018
+2015–2018
 
--   Developed media-driven trading models, boosting 30%+ annual revenue for 1 T$ portfolios.
-\
--   Built market indicators from media based data, enhancing institutional trading decisions.
-\
--   Applied statistical analysis to uncover profitable, risk-optimized investment strategies.
-\
+-   Built media-driven trading models boosting 30%+ annual revenue.\
+-   Developed statistical market indicators for institutional portfolios.\
 
 ## Education {#education data-icon="graduation-cap" data-concise="true"}
 
-### M.Sc in Statistics
+### M.Sc. Statistics
 
 University of Haifa
 
 Haifa, Israel
 
-2020 - 2022
+Graduated 2nd in Class, 2022
 
 
-### B.Sc in Industrial Engineering & Information Systems
+### B.E. Industrial Engineering
 
-Technion Institue
+Technion Institute
 
 Haifa, Israel
 
-2011 - 2015
+Dean's List, 2015
 
-Publications & Initiatives {data-icon=file #pubs}
---------------------------------------------------------------------------------
+
+## Publications & Initiatives {data-icon="file" #pubs}
 
 ### Peer Reviewed Publications
 
@@ -151,17 +143,18 @@ N/A
 
 N/A
 
-- Guttel, Lieder, Moradov, Messica (2025). Enhancing Forecasting with a 2D Time Series Approach for Cohort-Based Data
+-   Enhancing Forecasting with a 2D Time Series Approach for Cohort-Based Data (IEEE SSCI, 2025).\
+-   From Marketing to the Court: Applying MMM and Fatigue Analysis for Optimal Basketball Lineups (icSPORTS, 2025).\
 
 
-### Projects & Initiatives
+### Selected Personal Projects {#projects}
 
-#### COVID-19 symptom classification - Shaarei Tsedek Hospital (2019-2020)
+#### Bias Detection in Sports Bookkeeping Vendors
 
-- Collaborated with ER - developed symptom classification tool, improving patient triage efficiency.
+-   Developed statistical detection models identifying structural pricing biases and inefficiencies.\
 
-#### Sports Analytics Projects (2021- Present) {#sports}
+#### Arbitrage Betting Portfolio Management
 
-- Created kernel-based regression model analyzing fatigue impact on team performance (Collaborated with the Israeli National Basketball Team).
+-   Built quantitative models for opportunity detection, risk allocation, and drift monitoring across betting markets.\
 
  
