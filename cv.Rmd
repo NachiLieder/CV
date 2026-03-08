@@ -4,8 +4,7 @@ author: Nachi Lieder
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
-    # set it to true for a self-contained HTML page but it'll take longer to render
-    self_contained: false
+    self_contained: true  # single cv.html, no cv_files folder
     css: my_css.css
     paged-footnotes: true
 editor_options: 
